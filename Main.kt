@@ -12,7 +12,7 @@ fun main() {
 
     linkedList.add(node1).add(node2).add(node3).add(node4).add(node5)
 
-    //linkedList.remove("3")
+    linkedList.remove("3")
 
     linkedList.reverse()
 
